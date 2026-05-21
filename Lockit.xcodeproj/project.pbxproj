@@ -256,6 +256,8 @@
 				DEVELOPMENT_TEAM = RQDL2TA7ZS;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Lockit needs access to your photos to place them in safekeeping.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Lockit will remove selected photos from your camera roll after placing them in the vault.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +290,8 @@
 				DEVELOPMENT_TEAM = RQDL2TA7ZS;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Lockit needs access to your photos to place them in safekeeping.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Lockit will remove selected photos from your camera roll after placing them in the vault.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
