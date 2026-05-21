@@ -21,7 +21,7 @@ final class EmailService {
     private init() {}
 
     // MARK: - Configure this before shipping
-    static let relayURL = "https://your-serverless-endpoint.vercel.app/api/send"
+    static let relayURL = "https://lockitapp.vercel.app/api/send"
 
     // MARK: - Send PIN
 
